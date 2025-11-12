@@ -34,25 +34,27 @@ This project applies deep learning and GAN-based super-resolution to improve ult
 The modified ESRGAN achieved **significant improvement** in both quantitative and perceptual image quality compared to baseline ESRGAN models.  
 It demonstrated improved **texture preservation**, **noise reduction**, and **structural similarity** across multiple ultrasound categories.  
 
-> *(Detailed results and analysis will be shared after the paper’s publication.)*
-
 ---
 
 ## 🧰 Project Structure
+```bash
 my-esrgan-project/
 │
-├── src/esrgan/ # Core modules
-│ ├── data.py # Dataset and dataloaders
-│ ├── models.py # Generator, Discriminator, VGG loss
-│ ├── train.py # Training pipeline
-│ ├── test.py # Inference and visualization
-│ └── losses.py # Evaluation metrics
+├── src/
+│   └── esrgan/
+│       ├── data.py              # Dataset and dataloaders
+│       ├── models.py            # Generator, Discriminator, VGG loss
+│       ├── train.py             # Training pipeline
+│       ├── test.py              # Inference and visualization
+│       └── losses.py            # Evaluation metrics
 │
-├── notebooks/ # Experiments / Explorations
-├── saved_models/ # Model checkpoints (ignored by Git)
-├── requirements.txt # Dependencies
-├── LICENSE # MIT License
-└── README.md # Project description
+├── notebooks/                   # Jupyter notebooks for experiments
+├── saved_models/                # Model checkpoints (ignored by Git)
+├── requirements.txt             # Dependencies list
+├── LICENSE                      # MIT License file
+└── README.md                    # Project documentation ```
+
+---
 
 👨‍💻 Contributors
 
