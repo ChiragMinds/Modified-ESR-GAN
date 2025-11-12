@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/github/stars/<your-username>/ultrasound-esrgan?style=social" alt="GitHub stars">
 </p>
 
 ---
@@ -42,8 +41,6 @@ This project applies deep learning and GAN-based super-resolution to improve ult
 The modified ESRGAN achieved **significant improvement** in both quantitative and perceptual image quality compared to baseline ESRGAN models.  
 It demonstrated improved **texture preservation**, **noise reduction**, and **structural similarity** across multiple ultrasound categories.  
 
-> *(Detailed results and analysis will be shared after the paper’s publication.)*
-
 ---
 
 ## 🧰 Project Structure
@@ -65,7 +62,7 @@ my-esrgan-project/
 └── README.md                    # Project documentation
 ```
 ---
-## 📜 Licenc=se
+## 📜 License
 This project is licensed under the MIT License
 .
 Use of this repository or its code for academic or research purposes should include proper citation after the paper’s publication.
