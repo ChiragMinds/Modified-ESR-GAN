@@ -52,8 +52,8 @@ my-esrgan-project/
 ├── saved_models/                # Model checkpoints (ignored by Git)
 ├── requirements.txt             # Dependencies list
 ├── LICENSE                      # MIT License file
-└── README.md                    # Project documentation ```
-
+└── README.md                    # Project documentation
+```
 ---
 
 👨‍💻 Contributors
