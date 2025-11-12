@@ -1,0 +1,50 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+runs/
+tensorboard_logs/
+
+# Data and model outputs
+data/
+saved_models/
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+tmp/
+temp/
+output/
+*.tmp
+
+# Colab / Drive mounts
+/content/
+drive/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
