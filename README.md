@@ -55,19 +55,6 @@ my-esrgan-project/
 └── README.md                    # Project documentation
 ```
 ---
-
-👨‍💻 Contributors
-
-Chirag Chauhan
-
-Himanshi Borad
-
-Dhvani Maktuporia
-
-Mayuri A. Mehta
-
-Dheeraj Kumar Singh
-
 📜 License
 
 This project is licensed under the MIT License
