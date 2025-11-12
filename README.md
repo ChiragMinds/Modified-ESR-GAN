@@ -1,9 +1,17 @@
-# 🧠 Ultrasound Image Enhancement Using Modified ESRGAN
+<h1 align="center">🧠 Ultrasound Image Enhancement Using Modified ESRGAN</h1>
 
-## Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/github/stars/<your-username>/ultrasound-esrgan?style=social" alt="GitHub stars">
+</p>
+
+---
+
+## 🧾 Overview
 This repository implements a **Modified Enhanced Super-Resolution Generative Adversarial Network (ESRGAN)** for **ultrasound image enhancement**.  
 The model improves the visual quality of medical ultrasound scans by **reducing noise**, **restoring fine anatomical details**, and **enhancing structural clarity**.  
-This work explores GAN-based super-resolution for grayscale medical imagery.
+This work explores **GAN-based super-resolution** for grayscale medical imagery.
 
 ---
 
@@ -17,7 +25,7 @@ This project applies deep learning and GAN-based super-resolution to improve ult
 - **Framework:** PyTorch  
 - **Model:** Modified ESRGAN with simplified RRDB architecture  
 - **Loss Functions:** Custom combination of content, perceptual, and adversarial losses  
-- **Evaluation Metrics:** PSNR, SSIM, MSE  
+- **Evaluation Metrics:** PSNR, SSIM, and MSE  
 - **Hardware:** CUDA / GPU-accelerated training  
 
 ---
@@ -33,6 +41,8 @@ This project applies deep learning and GAN-based super-resolution to improve ult
 ## 📈 Sample Results
 The modified ESRGAN achieved **significant improvement** in both quantitative and perceptual image quality compared to baseline ESRGAN models.  
 It demonstrated improved **texture preservation**, **noise reduction**, and **structural similarity** across multiple ultrasound categories.  
+
+> *(Detailed results and analysis will be shared after the paper’s publication.)*
 
 ---
 
@@ -55,8 +65,7 @@ my-esrgan-project/
 └── README.md                    # Project documentation
 ```
 ---
-📜 License
-
+## 📜 Licenc=se
 This project is licensed under the MIT License
 .
 Use of this repository or its code for academic or research purposes should include proper citation after the paper’s publication.
