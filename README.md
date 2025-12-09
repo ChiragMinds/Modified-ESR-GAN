@@ -70,10 +70,11 @@ my-esrgan-project/
 
 This research has been **officially published on IEEE Xplore**:
 
-> **C. Chauhan, F. Patel, C. Tejani, and D. Kumar Singh**,  
-> *"Ultrasound Image Enhancement Using Modified ESRGAN,"*  
-> *2025 International Conference on Intelligent Systems and Image Processing (ICISIP), IEEE, 2025.*  
-> [DOI: 10.1109/ICISIP.2025.11233129](https://ieeexplore.ieee.org/document/11233129)
+> **H. Borad, D. Maktuporia, C. Chauhan, M. A. Mehta and D. K. Singh**,  
+> *"Ultrasound Image Enhancement Using Modified ESR-GAN,"*  
+> **2025 Artificial Intelligence and Smart Technologies for Sustainability Conference (AISTS)**,  
+> Rajkot, India, 2025, pp. 1–6.  
+> **DOI:** [10.1109/AISTS66100.2025.11233129](https://doi.org/10.1109/AISTS66100.2025.11233129)
 
 🔗 **Direct Link:** [IEEE Xplore Publication Page →](https://ieeexplore.ieee.org/document/11233129)
 
@@ -83,8 +84,7 @@ If you use this repository or reproduce results, please cite the above publicati
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
-
+This project is licensed under the **MIT License**.  
 Use of this repository or its code for **academic or research purposes** should include proper citation of the above IEEE paper.
 
 ---
