@@ -2,7 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Framework-PyTorch-red.svg" alt="Framework">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <a href="https://ieeexplore.ieee.org/document/11233129">
+    <img src="https://img.shields.io/badge/Published%20on-IEEE%20Xplore-blue.svg" alt="IEEE Publication">
+  </a>
 </p>
 
 ---
@@ -61,8 +65,31 @@ my-esrgan-project/
 ├── LICENSE                      # MIT License file
 └── README.md                    # Project documentation
 ```
+
+## 📄 Publication
+
+This research has been **officially published on IEEE Xplore**:
+
+> **C. Chauhan, F. Patel, C. Tejani, and D. Kumar Singh**,  
+> *"Ultrasound Image Enhancement Using Modified ESRGAN,"*  
+> *2025 International Conference on Intelligent Systems and Image Processing (ICISIP), IEEE, 2025.*  
+> [DOI: 10.1109/ICISIP.2025.11233129](https://ieeexplore.ieee.org/document/11233129)
+
+🔗 **Direct Link:** [IEEE Xplore Publication Page →](https://ieeexplore.ieee.org/document/11233129)
+
+If you use this repository or reproduce results, please cite the above publication.
+
 ---
+
 ## 📜 License
-This project is licensed under the MIT License
-.
-Use of this repository or its code for academic or research purposes should include proper citation after the paper’s publication.
+
+This project is licensed under the **MIT License**.
+
+Use of this repository or its code for **academic or research purposes** should include proper citation of the above IEEE paper.
+
+---
+
+<p align="center">
+  <b>© 2025 Chirag Chauhan — All Rights Reserved.</b><br>
+  Published work available on <a href="https://ieeexplore.ieee.org/document/11233129">IEEE Xplore</a>.
+</p>
